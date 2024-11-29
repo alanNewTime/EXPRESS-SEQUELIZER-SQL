@@ -1,0 +1,6 @@
+- SET UP
+- GET REQUEST (senza params, con params, con query)
+- POST REQUEST
+- PUT REQUEST
+- PATCH REQUEST
+- DELETE REQUEST 

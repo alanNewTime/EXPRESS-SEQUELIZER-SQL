@@ -1,0 +1,5 @@
+-ROUTERS
+-Regrouping api endpoints based on a domain (e.g users, products, etc)
+-Created the utils folder where i saved some middlewares and other entities to make my code lighter
+-Created an index file in the routes folder where we can connect all the inidividal entity routes before exporting it to the main index file
+-Added CORS that helps me when i expose my api url to the outside world, without that step, my link won't be accessible.

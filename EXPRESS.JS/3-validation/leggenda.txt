@@ -1,0 +1,3 @@
+  - VALIDATION (used as middlewares)
+  - Install the express-validator library
+  - Imported and used some of its validation functions (query, validationResult, body, matchedData)
